@@ -30,6 +30,7 @@ http://www.kuaibiancheng.com/arena
 https://www.kuaibiancheng.com/arena
 
 
+<pre>
 页面左边是写代码的编辑窗口
 页面右边是运行代码的结果
 
@@ -124,3 +125,4 @@ right(120)
 多参数的函数
 变量命名规则
 代码规范
+</pre>
