@@ -1,7 +1,9 @@
 # ProjectOpenCourse
 超高质量免费编程入门课
+https://github.com/kuaibiancheng/ProjectOpenCourse
 
 
+# 课程简单介绍说明
 我们这个课，会在 2020 年 1 月 6 8 10 13 15 17 这六天，每天晚上 7:30-9:30 上课
 地址在下面的 B 站直播间
 https://live.bilibili.com/1144997
@@ -9,7 +11,24 @@ https://live.bilibili.com/1144997
 课程结束后，视频会上传到 B 站，地址届时会更新到这里
 
 
+# 课程内容讨论群
+我们建了 2 个可免费加入的 QQ 讨论群来供大家交流讨论（请不要重复加群）
+讨论群1: 147180003
+讨论群2: 806139658
 
+除此外，根据以往的经验，我们也提供了一个付费交流群
+
+请注意，这个付费交流群我们不会在里面提供任何额外的内容、资料、解答
+
+这个付费交流群唯一的功能就是——里面都是付过费的人，其他任何都不保证
+
+如果你觉得这就是你想要的，用下面的链接购买入群
+
+https://www.kuaibiancheng.com/intro/qq_group
+
+
+
+# 预习
 第一节课之前，需要大家在下面的地址完成 10 道预习作业，这样上课能学得更好
 http://www.kuaibiancheng.com/arena
 
@@ -27,6 +46,7 @@ http://www.kuaibiancheng.com/arena
 预习内容
 ---
 使用 chrome 或者 firefox 浏览器打开如下页面
+
 https://www.kuaibiancheng.com/arena
 
 
